@@ -1,4 +1,4 @@
-# Python para Iniciantes Programação
+# Python para Iniciantes em Programação
 Curso de Python para Iniciantes em Programação na Udemy
 #### :computer: Temas abordados durante o curso foram::rocket:
 - Introdução ao Python.
