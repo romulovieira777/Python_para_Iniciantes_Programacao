@@ -1,0 +1,18 @@
+numeros = [3, 5, 12, 2, 15, 6]
+amigos = ['Marcos', 'Pedro', 'Adriana', 'Karina', 'Julia']
+amigos.extend(numeros)
+print(amigos)
+amigos.append('João')
+print(amigos)
+amigos.insert(1, 'Felicity')
+print(amigos)
+amigos.remove('Marcos')
+print(amigos)
+amigos.pop(2)
+print(amigos)
+print(amigos.index('Julia'))
+print(amigos.count('Julia'))
+amigos.sort()
+print(amigos)
+numeros.sort()
+print(numeros)
