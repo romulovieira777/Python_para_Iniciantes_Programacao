@@ -13,5 +13,5 @@ Curso de Python para Iniciantes em Programação na Udemy
 - Listas e Funções.
 - If.
 
-Link para o curso 100% Gratuito.
-[Udemy]https://www.udemy.com/course/python-iniciantes-programacao/
+Link para o curso 100% Gratuito. 
+[Udemy](https://www.udemy.com/course/python-iniciantes-programacao/)
